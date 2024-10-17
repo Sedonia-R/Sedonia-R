@@ -1,5 +1,5 @@
-👋 Hi there, I'm Sedonia.
-👉🏻 A full stack software engineer who ❤️s building useful, beautiful things.
+👋 Hi there, I'm Sedonia!
+👉🏻 A full stack software engineer who loves building useful, beautiful things.
 
 🔭 I’m currently working on 🌿 Plant Sitter Pro 🌿, an app that connects plant owners with people who have green thumbs. You can find the project repo here -> https://github.com/Sedonia-R/plant-sitter-pro
 
