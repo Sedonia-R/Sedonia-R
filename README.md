@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on 🌿 Plant Sitter Pro 🌿, an app that connects plant owners with people who have green thumbs. You can find the project repo here -> https://github.com/Sedonia-R/plant-sitter-pro
 
-🔭 I am also currently building a website for an IT Consulting Professional (wwww.raethel.com), as well as my own website (www.madebysedonia.com).
+🔭 I am also currently building a website for an IT Consulting Professional (www.raethel.com), as well as my own website (www.madebysedonia.com).
 
 🌱 I am ever learning and sharpening my skills.
 
