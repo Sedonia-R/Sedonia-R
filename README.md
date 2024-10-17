@@ -11,7 +11,7 @@
 
 💻 Technologies I know: JavaScript, Ruby, Python, React, CSS, HTML, Bootstrap, Node.js, SQL Alchemy, Flask, JWT
 
-🤝 I am currently looking for help finding a SWE apprenticeship. I completed a full stack developer bootcamp on September 27th and am working actively to increase and improve my skill set.
+🤝 I am currently looking for a SWE apprenticeship or an entry level roll.
 
 📫 How to reach me: river.sedonia@gmail.com
 
