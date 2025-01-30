@@ -3,8 +3,7 @@
 <h3 align="center">👉🏻 A full stack software engineer who loves building useful, beautiful things.</h3>
 <img align="right" alt="Image of Female Programmer" width="300" src="https://i2.wp.com/mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif">
 
-🔭 I’m currently working on 🌿 Plant Sitter Pro 🌿, an app that connects plant owners with people who have green thumbs. You can find the project repo here -> https://github.com/Sedonia-R/plant-sitter-pro
-And see the app live here (a work in progress...) --> https://sample-service-name-f4fc.onrender.com
+🔭 I’m currently working on 🌿 Plant Sitter Pro 🌿, an app that connects plant owners with people who have green thumbs. You can see this project here -> https://sample-service-name-f4fc.onrender.com
 
 🔭 I've built a website for an IT Consulting Professional ([www.raethel.com](https://sedonia-r.github.io/raethstein-consulting/)).
 
